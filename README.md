@@ -1,1 +1,4 @@
-# info2180-project1
+# Info2180 Project1
+
+This is Project 1 for Akilah Berry
+
